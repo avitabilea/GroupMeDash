@@ -1,2 +1,0 @@
-# GroupMeDash
-Dashboard for GroupMePolls
